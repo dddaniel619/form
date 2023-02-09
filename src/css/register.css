@@ -1,0 +1,14 @@
+
+div label {
+    margin: 10px;
+    align-items: center;
+    
+}
+
+form {
+    border: 2px solid blue;
+    padding: 20px;
+    background-color:azure;
+    border-radius: 10px;
+}
+
